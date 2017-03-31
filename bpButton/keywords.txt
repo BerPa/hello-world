@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For bpButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+Pushbutton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+isPressed	KEYWORD2
+operated	KEYWORD2
+released	KEYWORD2
+hasChanged	KEYWORD2
+rawValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PULLUP	LITERAL1
+PULLDOWN	LITERAL1
+NOT_PRESSED	LITERAL1
+SHORT_PRESSED	LITERAL1
+LONG_PRESSED	LITERAL1
